@@ -1,6 +1,6 @@
 # Query
-You can validate token by simple `if` `else` keywords. But it is move preferable to use `Query` class.
-`Query` contain conditions and check if token is valid to all of this conditions.
+You can validate token by simple `if`, `else` keywords. But it is move preferable to use `Query` class.
+`Query` contains conditions and checks if token is valid to all of this conditions.
 
 
 Lets see simple example:
